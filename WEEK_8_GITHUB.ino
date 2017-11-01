@@ -1,5 +1,7 @@
 #include <EEPROM.h>
 
+//This is a test comment to test GitHub uploads
+
 //Week 6 Digital Lab: Drum Sequencer
 //Chris Friedman
 
